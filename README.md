@@ -2,10 +2,10 @@
 Proceso de diseño de la PCB para la asignatura Diseño de Sistemas Electronicos.
 
 Para definir que componentes se encuentran en la PCB, es necesario primero listar los componentes que se van a utilizar para controlar el gabinete.
--Celda Peltier con disipacion y ventiladores.
--Ultrasonido como humidificador.
--Matriz LED.
--Luz para toma de imagen de la camara.
+ - Celda Peltier con disipacion y ventiladores.
+ - Ultrasonido como humidificador.
+ - Matriz LED.
+ - Luz para toma de imagen de la camara.
 
 Caras superior e inferior de la PCB. 
 
